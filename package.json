@@ -1,0 +1,16 @@
+{
+  "name": "nodeproject",
+  "version": "2.0.0",
+  "description": "Node Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "pg": "^7.17.0"
+  }
+}
